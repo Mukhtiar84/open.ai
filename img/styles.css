@@ -1,0 +1,13 @@
+.styled-header
+{
+    
+    border: 2px solid gray;
+    display: flex;
+}
+    .headerLeft{
+        border: 2px solid yellow;
+    display: flex;
+    }
+
+
+    
